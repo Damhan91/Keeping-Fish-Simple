@@ -6,6 +6,26 @@
 
 
 #Title{
-    text-align: center;
+    background-color: green;
+    color: white;
+    text-align: center;   
+    padding: 30px; 
 }
 
+#menu{
+    font-size: 150%;
+}
+#menu li{
+    float: right;
+    margin-right: 30px;
+    list-style-type: none;
+}
+h2 {    
+    text-align: center;  
+}
+
+#hero-image {
+    height: 1000px;    
+    background: url('../images/Header-image.jpg') no-repeat center center;
+    padding: 0%;
+}
