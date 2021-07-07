@@ -6,17 +6,14 @@
     border: none;
     }
 
-    body{
-        font-family: 'Cabin', sans-serif;        
-    }
+body {
+    background-color:whitesmoke;
+}
 
-    h1, h2 {
-        font-family: 'Raleway', sans-serif;
-        text-transform: uppercase;         
-    }
-    
-
-
+img {
+    max-width: 100%;
+    height: auto;
+  }
 
 
 
