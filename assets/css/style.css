@@ -14,10 +14,12 @@ footer{
     background-color: green;
 }
 
+/*header*/
+
 #name{
     float: left;
     font-size: 300%;       
-    line-height: 75px;  
+    line-height: 75px;      
 }
 
 #tabs{
@@ -37,11 +39,7 @@ text-decoration: none;
 }
 
 #tabs a:hover{
-    border-bottom: 2px solid black;
-}
-
-.active{
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid black;    
 }
 
 #outer{
@@ -54,4 +52,23 @@ text-decoration: none;
     height: 400px;
     width: 100%;
     background: url('../images/header.jpg') no-repeat center center;       
+}
+
+/* home body page */
+
+#container{
+    display: flex;
+    border: 2px solid;
+}
+
+#image{
+    height: 200px;
+    width: 100%;
+    background: url('../images/Honey Gourami.jpg') no-repeat;
+}
+#neon{
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
 }
