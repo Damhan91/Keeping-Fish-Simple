@@ -57,10 +57,12 @@ text-decoration: none;
 /* home body page */
 
 #container{
-    display: flex;
-    border: 2px solid;
+    display: flex;      
 }
 
+#container div{
+    border: solid 1px black;
+}
 #image{
     height: 200px;
     width: 100%;
