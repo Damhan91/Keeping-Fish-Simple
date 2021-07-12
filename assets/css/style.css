@@ -56,12 +56,68 @@ text-decoration: none;
 
 /* home body page */
 
-#container{
+.container-1 {
     display: flex;      
 }
 
-#container div{
-    border: solid 1px black;
+.container-2{
+    display: flex;
+    
+}
+.container-1 div, .container-2 div{
+    border: solid 1px black;    
+    flex: 1;
+    margin: 1em;
+    box-shadow: 0px 0px 10px 0px;
+}
+
+.box-1{
+    width: 33%;
+}
+
+#Location{
+    max-width: 300px; 
+    max-height: 300px;
+    background: url('../images/location.jpg') no-repeat;
+}
+#tank{
+    max-width: 300px; 
+    max-height: 300px;    
+    }
+#clean{    
+    max-width: 300px; 
+    max-height: 300px;
+    align-self: center;
+}  
+
+#tank{
+    max-width: 300px; 
+    max-height: 300px;
+    background: url('../images/tank.jpg') no-repeat;
+}
+
+.box-2{
+    width: 25%;     
+}
+
+#filter{
+    max-width: 300px; 
+    max-height: 300px;
+}
+
+#clean{
+    max-width: 300px; 
+    max-height: 300px;
+}
+
+#light{
+    max-width: 400px; 
+    max-height: 400px;
+}
+
+#substrate{
+    max-width: 400px; 
+    max-height: 400px;
 }
 #image{
     height: 200px;
@@ -69,8 +125,7 @@ text-decoration: none;
     background: url('../images/Honey Gourami.jpg') no-repeat;
 }
 #neon{
-    height: auto; 
-    width: auto; 
     max-width: 300px; 
     max-height: 300px;
 }
+
