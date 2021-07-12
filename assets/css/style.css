@@ -93,13 +93,9 @@ text-decoration: none;
 .box-2{
     width: 25%;     
 }
-#image{
-    height: 200px;
-    width: 100%;
-    background: url('../images/Honey Gourami.jpg') no-repeat;
-}
-#neon{
-    max-width: 300px; 
-    max-height: 300px;
+
+.fish-image{
+    max-width: 400px; 
+    max-height: 400px;
 }
 
