@@ -99,3 +99,32 @@ text-decoration: none;
     max-height: 400px;
 }
 
+/*footer*/
+
+footer{
+    height: 150px;
+}
+
+#social-links{
+    text-align: center;    
+}
+
+#social-links > li{
+    display: inline;     
+}
+
+#social-links  i{
+    font-size: 200%;    
+    color: white;
+    padding-right: 7%;
+    line-height: 100px;   
+}
+
+#Sign-up{
+    float: left;
+}
+
+input {
+    border: 2px solid black;
+    padding-bottom: 2%;
+}
