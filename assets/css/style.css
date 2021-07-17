@@ -101,11 +101,6 @@ h1{
     letter-spacing: 2px;    
 }
 
-#Location{
-    max-width: 300px; 
-    max-height: 300px;
-    background: url('../images/location.jpg') no-repeat;
-}
 .box-1-image{
     width: 100%; 
     height: 400px;
@@ -131,6 +126,7 @@ h1{
     }
 
 /*Fish Tab*/
+
 .container-fish-1{
     display: flex;
 }
@@ -178,9 +174,12 @@ h1{
     height: 300px;      
 }
 
-.fish-table{
+table, th, td {
+    border: 1px solid black;
+    table-layout: fixed;
+    width: 100%;
     text-align: center;
-}
+  }
 
 /*plant tab*/
 h3{
