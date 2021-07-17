@@ -20,7 +20,7 @@ h2 {
     border-bottom: 1px solid;
 }
 
-header, #name, #tabs li{
+header {
     height: 75px;
     background-color: green;
 }
@@ -57,8 +57,8 @@ color: white;
 
 #hero-image{
     height: 400px;
-    width: 100%;
-    background: url('../images/header.jpg') no-repeat center center;       
+    width: 100%;    
+    background: url('../images/header.jpg') no-repeat center center;      
 }
 
 /* home body page */
@@ -178,7 +178,7 @@ table, th, td {
     border: 1px solid black;
     table-layout: fixed;
     width: 100%;
-    text-align: center;
+    text-align: center;    
   }
 
 /*plant tab*/
