@@ -72,22 +72,18 @@ h1{
     text-align: center;
 }
 
-.container-1 {
+.container{
     display: flex;     
     
 }
 
-.container-2{
-    display: flex;   
-}
-
-.container-1 h3, .container-2 h3{
+.container h3, .container h3{
     text-align: center;
     font-size: 150%;
     letter-spacing: 3px;
     border-bottom: 5px solid black;
 }
-.container-1 div, .container-2 div{
+.container div, .container div{
     border: solid 1px black;    
     flex: 1;
     margin: 1em;
@@ -251,3 +247,22 @@ input {
     font-size: 10px;    
     cursor: pointer;
 }
+
+/* responsive design*/
+
+@media screen and (max-width: 1200px) {
+
+   .container{   
+        display: flex;
+        flex-flow: row wrap;
+   }
+}
+
+@media screen and (max-width: 950px) {
+
+    .container{   
+         width 75%;
+         display: flex;
+         flex-flow: column wrap;
+    }
+ }
