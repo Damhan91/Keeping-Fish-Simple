@@ -253,18 +253,16 @@ input {
 
 @media screen and (max-width: 1200px) {
 
-   .container{   
+   .intro, .box-1, .box-2, .container{   
         width: 100%;
-        display: flex;
-        flex-flow: row wrap;
+        padding: 0 auto;
     }
 }
 
 @media screen and (max-width: 950px) {
 
-    .container{   
-         width: 100%;
-         display: flex;
-         flex-flow: column wrap;
+    .intro, .box-1, .box-2, .container{   
+            width: 100%;
+            flex-flow: column wrap;
     }
  }
