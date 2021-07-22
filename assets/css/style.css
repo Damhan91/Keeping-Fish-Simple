@@ -183,6 +183,11 @@ h3{
 .container-plant-1{
     display: flex;
     }
+    
+
+.box-plant-1{
+    width: 25%;
+}
 
 .container-plant-1 div {
     border: solid 1px black;    
@@ -245,7 +250,7 @@ input {
 
 @media screen and (max-width: 1200px) {
 
-   .intro, .box-1, .box-2, .container{   
+   .intro, .box-1, .box-2, .container, table{   
         width: 100%;
         padding: 0 auto;
     }
@@ -253,7 +258,7 @@ input {
 
 @media screen and (max-width: 950px) {
 
-    .intro, .box-1, .box-2, .container{   
+    .intro, .box-1, .box-2, .container, table{   
             width: 100%;
             flex-flow: column wrap;
     }
@@ -272,6 +277,24 @@ input {
  @media screen and (max-width: 950px) {
  
      .intro, .fish-image, .container-fish-1, .container-fish-2, .container-fish-3{   
+             width: 100%;
+             flex-flow: column wrap;
+     }
+  }
+
+  /* Plant Page responsive design*/
+
+ @media screen and (max-width: 1200px) {
+
+    .intro, .container-plant-1 {   
+         width: 100%;
+         padding: 0 auto;
+     }
+ }
+ 
+ @media screen and (max-width: 950px) {
+ 
+    .intro, .container-plant-1{   
              width: 100%;
              flex-flow: column wrap;
      }
