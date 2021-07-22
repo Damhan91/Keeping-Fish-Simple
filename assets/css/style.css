@@ -241,7 +241,7 @@ input {
     cursor: pointer;
 }
 
-/* responsive design*/
+/* Home Page responsive design*/
 
 @media screen and (max-width: 1200px) {
 
@@ -258,3 +258,21 @@ input {
             flex-flow: column wrap;
     }
  }
+
+/* Fish Page responsive design*/
+
+ @media screen and (max-width: 1200px) {
+
+    .intro, .fish-image, .container-fish-1, .container-fish-2, .container-fish-3 {   
+         width: 100%;
+         padding: 0 auto;
+     }
+ }
+ 
+ @media screen and (max-width: 950px) {
+ 
+     .intro, .fish-image, .container-fish-1, .container-fish-2, .container-fish-3{   
+             width: 100%;
+             flex-flow: column wrap;
+     }
+  }
