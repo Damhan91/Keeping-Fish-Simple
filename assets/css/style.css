@@ -203,7 +203,7 @@ h3{
     border-bottom: 5px solid black;
 }
 .plant-image{
-    width: 400px; 
+    width: 100%; 
     height: 400px;
     object-fit:scale-down;
 }
