@@ -182,12 +182,7 @@ h3{
 
 .container-plant-1{
     display: flex;
-    }
-    
-
-.box-plant-1{
-    width: 25%;
-}
+    } 
 
 .container-plant-1 div {
     border: solid 1px black;    
