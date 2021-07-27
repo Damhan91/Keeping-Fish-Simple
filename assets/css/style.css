@@ -157,8 +157,7 @@ div > p{
 }
 
 .fish-image{
-    width: 100%; 
-    object-fit:scale-up;         
+    width: 100%;            
 }
 
 table, th, td {
@@ -238,8 +237,7 @@ input {
 @media screen and (max-width: 1200px) {
 
    .intro, .box-1, .box-2, .container, table{   
-        width: 100%;
-        padding: 0 auto;        
+        width: 100%;               
     }
 }
 
@@ -255,8 +253,7 @@ input {
  @media screen and (max-width: 1200px) {
 
     .intro, .fish-image, .container-fish-1, .container-fish-2, .container-fish-3 {   
-         width: 100%;
-         padding: 0 auto;
+         width: 100%;         
      }
  }
  
@@ -279,8 +276,7 @@ input {
  @media screen and (max-width: 1200px) {
 
     .intro, .container-plant-1 {   
-         width: 100%;
-         padding: 0 auto;
+         width: 100%;         
      }
  }
  
