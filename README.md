@@ -48,6 +48,8 @@ __The Plant Tab__
   [W3C validator](https://validator.w3.org/nu/#textarea) - Plant Tab
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdamhan91.github.io%2FKeeping-Fish-Simple%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-     
+- Accessibility
+  - I can confrim that all the fonts ands colors that are used throughout this website are easy to read and accessible, this is shown by using the lighthouse in Devtools
+![Accessibility](https://github.com/Damhan91/Keeping-Fish-Simple/blob/main/assets/images/Lighthouse.JPG)
 
 
