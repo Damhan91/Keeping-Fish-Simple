@@ -40,6 +40,15 @@ __The Plant Tab__
 
 ![Plant](https://github.com/Damhan91/Keeping-Fish-Simple/blob/main/assets/images/Plants.JPG)
 
+
+# Testing 
+
+- I can confirm that my website works on multiple browsers.
+- I can confirm that my website is repsonsive and works on multiple devices, which has been tested using the Devtools.
+
+### Bugs
+  - No bugs to report
+
 ### Validator Testing 
 
 - HTML
