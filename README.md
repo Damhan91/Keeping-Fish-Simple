@@ -41,7 +41,7 @@ __The Plant Tab__
 ![Plant](https://github.com/Damhan91/Keeping-Fish-Simple/blob/main/assets/images/Plants.JPG)
 
 
-# Testing 
+## Testing 
 
 - I can confirm that my website works on multiple browsers.
 - I can confirm that my website is repsonsive and works on multiple devices, which has been tested using the Devtools.
@@ -52,9 +52,7 @@ __The Plant Tab__
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official  [W3C validator](https://validator.w3.org/nu/#textarea) - Index Tab
-  [W3C validator](https://validator.w3.org/nu/#textarea) - Fish Tab
-  [W3C validator](https://validator.w3.org/nu/#textarea) - Plant Tab
+  - No errors were returned when passing through the official  [W3C validator]
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdamhan91.github.io%2FKeeping-Fish-Simple%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 - Accessibility
