@@ -6,39 +6,39 @@ Keeping Fish Simple is a website that is looking to help people set up their ver
 
 - __Navigation Bar__
 
-    - On the webpage there are three fully responsive navigation tabs that include the Home page, Fish page and Plant page. On each page there is the same header, hero image and footer layout. Each tab will show the user wich equiupment is needed to start an aqurium and also what fish and plants are best for begginers.
+  - On the webpage there are three fully responsive navigation tabs that include the Home page, Fish page and Plant page. On each page there is the same header, hero image and footer layout. Each tab will show the user wich equiupment is needed to start an aqurium and also what fish and plants are best for begginers.
 
-    add image
+  ![Navimage](https://github.com/Damhan91/Keeping-Fish-Simple/blob/main/assets/images/NAV.JPG)
 
 - __The landing page image__
 
-  - The home page fist introuduces the user into the aqwurium hobby and gives a brief summmary to what the website is about.  
+  - The home page fist introuduces the user to the aquarium hobby and gives a brief summmary to what the website is about.  
 
-  add image
+  ![Home](https://github.com/Damhan91/Keeping-Fish-Simple/blob/main/assets/images/Intro.JPG)
 
 - __Equipment needed__
 
-- The section shows what the user will need and also consider when setting up their very first aquarium. It will metion what equipment is needed and also some decison that will have to be made before buying their first fish
+  - This section shows what the user will need and also consider when setting up their very first aquarium. It will metion what equipment is needed and also some decison that will have to be made before buying their first fish
 
-add image
+![Equiupment](https://github.com/Damhan91/Keeping-Fish-Simple/blob/main/assets/images/whatisneeded.JPG)
 
 __The Footer__ 
 
-- The footer section includes links to the relevant social media sites for Keeping fish Simple. The social media links will open up in another tab so better user experince.
+  - The footer section includes links to the relevant social media sites for Keeping fish Simple. The social media links will open up in another tab so better user experince.
 
-add image
+![Footer](https://github.com/Damhan91/Keeping-Fish-Simple/blob/main/assets/images/footer.JPG)
 
 __The Fish Tab__ 
 
-- The fish tab will provide the user with a list of images and information about some fish that are perfect for begginers. The information that is provided are the tank size, water temperature, group size and also their temperment towards other fish.
+  - The fish tab will provide the user with a list of images and information about some fish that are perfect for begginers. The information that is provided are the tank size, water temperature, group size and also their temperment towards other fish.
 
-add image
+![Fish](https://github.com/Damhan91/Keeping-Fish-Simple/blob/main/assets/images/Fish.JPG)
 
 __The Plant Tab__ 
 
-- The plant tab will provide the user with a list of images of different types of aquarium plants that are perfect for begginers. The plants are broken down into three categories, foreground, mid-ground and background
+  - The plant tab will provide the user with a list of images of different types of aquarium plants that are perfect for begginers. The plants are broken down into three categories, foreground, mid-ground and background
 
-add image
+![Plant](https://github.com/Damhan91/Keeping-Fish-Simple/blob/main/assets/images/Plants.JPG)
 
 ### Validator Testing 
 
