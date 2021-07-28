@@ -8,7 +8,7 @@ Keeping Fish Simple is a website that is looking to help people set up their ver
 
   - On the webpage there are three fully responsive navigation tabs that include the Home page, Fish page and Plant page. On each page there is the same header, hero image and footer layout. Each tab will show the user wich equiupment is needed to start an aqurium and also what fish and plants are best for begginers.
 
-  ![Navimage](https://github.com/Damhan91/Keeping-Fish-Simple/blob/main/assets/images/NAV.JPG)
+  ![Navimage](https://github.com/Damhan91/Keeping-Fish-Simple/blob/main/assets/images/nav.JPG)
 
 - __The landing page image__
 
