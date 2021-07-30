@@ -65,4 +65,4 @@ __The Plant Tab__
 
 ## Content
  - All the imagesd were taken from Google Images
- - All the incons that were used throughout the website were from [FontAwesome] (https://fontawesome.com/)
+ - All the incons that were used throughout the website were from Font Awesome
