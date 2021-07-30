@@ -162,7 +162,7 @@ div > p {
 table, th, td {
     border: 1px solid black;
     table-layout: fixed;
-    width: 100%;
+    width: 100%;    
     text-align: center;    
   }
 
@@ -243,6 +243,10 @@ input {
    .intro, .box-1, .box-2, .container, table{   
         width: 100%;               
     }
+
+    p {
+        text-align: center;
+    }
 }
 
 @media screen and (max-width: 950px) {
@@ -251,6 +255,7 @@ input {
             width: 100%;
             flex-flow: column wrap;                       
     }
+
 }
 /* Fish Page responsive design*/
 
@@ -259,6 +264,10 @@ input {
     .intro, .fish-image, .container-fish-1, .container-fish-2, .container-fish-3 {   
          width: 100%;         
      }
+
+     p {
+        text-align: center;
+    }
  }
  
  @media screen and (max-width: 950px) {
@@ -282,6 +291,11 @@ input {
     .intro, .container-plant-1 {   
          width: 100%;         
      }
+
+     p {
+        text-align: center;
+    }
+
  }
  
  @media screen and (max-width: 950px) { 
