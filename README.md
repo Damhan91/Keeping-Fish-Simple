@@ -62,3 +62,7 @@ __The Plant Tab__
 ## Deployment
 
  - Link to Keeping Fish Simple can be found [Here](https://damhan91.github.io/Keeping-Fish-Simple/)
+
+## Content
+ - All the imagesd were taken from Google Images
+ - All the incons that were used throughout the website were from [FontAwesome] (https://fontawesome.com/)
