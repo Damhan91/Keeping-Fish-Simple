@@ -1,12 +1,12 @@
 # Keeping-Fish-Simple
-Keeping Fish Simple is a website that is looking to help people set up their very first freshwater tropical aquarium. This website is targeted at a complete beginner and is a source of information that will help them get stared setting up their own aquarium at home.
+Keeping Fish Simple is a website that is looking to help people set up their very first freshwater tropical aquarium. This website is targeted at a complete beginner and is a source of information that will help them get started with setting up their own aquarium at home.
 ![Responsive image](https://github.com/Damhan91/Keeping-Fish-Simple/blob/main/assets/images/Responsive.JPG)
 
 ### Existing Features
 
 - __Navigation Bar__
 
-  - On the webpage there are three fully responsive navigation tabs that include the Home page, Fish page and Plant page. On each page there is the same header, hero image and footer layout. Each tab will show the user wich equiupment is needed to start an aqurium and also what fish and plants are best for begginers.
+  - On the webpage there are three fully responsive navigation tabs that include the Home page, Fish page and Plant page. On each page there is the same header, hero image and footer layout. Each tab will show the user which equiupment is needed to start an aqurium and also what fish and plants are best for begginers.
 
   ![Navimage](https://github.com/Damhan91/Keeping-Fish-Simple/blob/main/assets/images/nav.JPG)
 
@@ -47,7 +47,7 @@ __The Plant Tab__
 - I can confirm that my website is repsonsive and works on multiple devices, which has been tested using the Devtools.
 
 ### Bugs
-  - No bugs to report
+  - When looking at the website on an Ipad, the Images for the Cryptocoryne and Echinodorus Red overlap their flexbox container. This only happend on the Ipad format.
 
 ### Validator Testing 
 
@@ -60,7 +60,10 @@ __The Plant Tab__
 ![Accessibility](https://github.com/Damhan91/Keeping-Fish-Simple/blob/main/assets/images/Lighthouse.JPG)
 
 ## Deployment
-
+ - Log in [Github](https://github.com/)
+ - Then access the Github respository for the project (https://github.com/Damhan91/Keeping-Fish-Simple)
+ - Click on settings and go down to the "Github Pages"
+ - Select "Branch: Main" from the menu. This then genertates a link for the Website
  - Link to Keeping Fish Simple can be found [Here](https://damhan91.github.io/Keeping-Fish-Simple/)
 
 ## Content
