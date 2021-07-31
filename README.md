@@ -53,7 +53,7 @@ __The Plant Tab__
 - I can confirm that my website is repsonsive and works on multiple devices, which has been tested using the Devtools.
 
 ### Bugs
-  - When looking at the website on an Ipad, the Images for the Cryptocoryne and Echinodorus Red overlap their flexbox container. This only happend on the Ipad format.
+  - When looking at the website on an Ipad, the Images for the Cryptocoryne and Echinodorus Red overlap their flexbox container. This only happens on the Ipad format.
 
 ### Validator Testing 
 
