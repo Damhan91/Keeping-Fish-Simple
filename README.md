@@ -6,8 +6,6 @@ Keeping Fish Simple is a website that is looking to help people set up their ver
 
 - __User Story__
 
-- Customer
-
   - As a user I want this website to help me understand what is needed and required to begin keeping tropical freshwater fish. As a user I am looking for infomration with how to intially start an aquraium and what equipment I need to do so. I also want to know what type of fish and plants are perfcect for begginers to start with.
 
 ### Existing Features
