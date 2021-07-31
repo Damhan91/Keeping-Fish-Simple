@@ -4,6 +4,14 @@ Keeping Fish Simple is a website that is looking to help people set up their ver
 
 ### Existing Features
 
+- __User Story__
+
+- Customer
+
+  - As a user I want this website to help me understand what is needed and required to begin keeping tropical freshwater fish. As a user I am looking for infomration with how to intially start an aquraium and what equipment I need to do so. I also want to know what type of fish and plants are perfcect for begginers to start with.
+
+### Existing Features
+
 - __Navigation Bar__
 
   - On the webpage there are three fully responsive navigation tabs that include the Home page, Fish page and Plant page. On each page there is the same header, hero image and footer layout. Each tab will show the user which equiupment is needed to start an aqurium and also what fish and plants are best for begginers.
